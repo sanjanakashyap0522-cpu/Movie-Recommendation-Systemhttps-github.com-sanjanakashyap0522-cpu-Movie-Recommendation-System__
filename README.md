@@ -33,7 +33,7 @@ It combines content‑based filtering (similarity between movie titles) with ext
 ![Trending](Trending.png)
 
 ### ❤️ Favourites
-![Favourites](Favourites.png)
+![Favourites](favourites.png)
 ### ⭐ Top Rated
 ![Top Rated](toprated.png)
 
