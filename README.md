@@ -38,4 +38,4 @@ It combines content‑based filtering (similarity between movie titles) with ext
 ![Top Rated](TopRated.png)
 
 ### 🤞 Feedback
-![Feedback](YourFeedback.png)
+![Feedback](feedback.png)
