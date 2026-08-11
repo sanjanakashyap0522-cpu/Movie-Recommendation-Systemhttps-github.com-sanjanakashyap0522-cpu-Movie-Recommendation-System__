@@ -1,7 +1,8 @@
 # 🎬 Movie Recommendation System
 
-This project recommends movies based on similarity.  
-It uses content‑based filtering to suggest films that are most similar to the one you choose.
+This project recommends movies using a **hybrid recommendation approach**.  
+It combines content‑based filtering (similarity between movie titles) with external data from TMDB (ratings, genres, and trailers) to deliver richer and more accurate suggestions.
+
 
 👉 **Live Website:** [Movie Recommender Website](https://movie-recommender-sanju6394.streamlit.app/)
 
