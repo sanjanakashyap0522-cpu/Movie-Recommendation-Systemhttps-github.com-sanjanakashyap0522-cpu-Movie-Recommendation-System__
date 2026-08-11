@@ -15,3 +15,27 @@ It combines content‑based filtering (similarity between movie titles) with ext
 - Fast and interactive results.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 🎯 Recommendations
+![Recommendations](recommend.png)
+
+### 🔍 Search Movies
+![Search](search.png)
+
+### 🎭 Explore by Genre
+![Genre](genre.png)
+
+### 🔥 Trending 
+![Trending](Trending.png)
+
+### ❤️ Favorites
+![Favorites](Favorites.png)
+### ⭐ Top Rated
+![Top Rated](TopRated.png)
+
+### 🤞 Feedback
+![Feedback](YourFeedback.png)
